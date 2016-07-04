@@ -7,6 +7,10 @@ First-time with [.NET Core](https://dotnet.github.io/)
 
 .NET Core also includes the base class libraries. These libraries are largely the same code as the .NET Framework class libraries, but have been factored (removal of dependencies) to enable us to ship a smaller set of libraries. These libraries are shipped as System.* NuGet packages on NuGet.org.
 
+More to read: https://msdn.microsoft.com/en-us/magazine/mt694084.aspx
+
+中文用户：https://msdn.microsoft.com/zh-cn/magazine/mt694084.aspx
+
 ### Ready
 
 You should have openSSL on your machine.
